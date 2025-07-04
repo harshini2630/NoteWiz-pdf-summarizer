@@ -2,14 +2,9 @@ Flask==3.0.3
 Flask-Cors==4.0.0
 whisper
 openai-whisper
-torch  # needed by Whisper; version auto-selected based on your system
+torch
 pydub==0.25.1
 reportlab==4.1.0
 python-dotenv==1.0.1
 google-generativeai==0.3.2
 requests==2.31.0
-
-
-
-
-pip install -r requirements.txt
